@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=128
+
+Displays random vim command (with explanation) or tip, then starts vim. Can be set to show tip once per X launches. 
